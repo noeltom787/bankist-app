@@ -4,4 +4,4 @@ Here is a <a href='https://noeltom787.github.io/bankist-app/' target='_blank'>li
 You can use - <br>
       <b>user ID: nt<br>
       PIN: 1111</b><br>
-for using the functionalities
+for logging in
