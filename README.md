@@ -1,7 +1,8 @@
 # bankist-app
 A minimalist banking application based on array methods and modern JS concepts.
-Here is a <a href='https://noeltom787.github.io/bankist-app/' target='_blank'>link</a> to the deployed site.<br>
-You can use - <br>
-      <b>user ID: nt<br>
-      PIN: 1111</b><br>
-for logging in
+<br>Deployed Link- <a href='https://noeltom787.github.io/omnifood-landing-page/' target='_blank'>Bankist</a>.
+<br>Login Details-
+```
+User ID: nt
+PIN: 1111
+```
